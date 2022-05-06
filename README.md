@@ -6,6 +6,14 @@ creative web develop is a IDE designed for website designers and programmers.
 
 # NO LONGER UPDATED DEPRECATED. 
 
+CWD IS NO MORE, HELLO EWD.
+
+please goto https://enclica.com/ewd-page/ for more information
+
+NOTE: on the LTS version it will be further supported till 2024.
+
+after its final release in 1 month.
+
 
 # Required Software
 - Visual studio 2019+
